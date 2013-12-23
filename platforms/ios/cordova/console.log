@@ -26,3 +26,49 @@
 2013-12-23 19:42:07.553 Test App[65842:c07] Unlimited access to network resources
 2013-12-23 19:42:07.658 Test App[65842:c07] Resetting plugins due to page load.
 2013-12-23 19:42:07.692 Test App[65842:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 20:13:55.377 Test App[84880:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 20:13:55.384 Test App[84880:c07] Unlimited access to network resources
+2013-12-23 20:13:55.466 Test App[84880:c07] Resetting plugins due to page load.
+2013-12-23 20:13:55.524 Test App[84880:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 20:15:09.603 Test App[86144:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 20:15:09.611 Test App[86144:c07] Unlimited access to network resources
+2013-12-23 20:15:09.826 Test App[86144:c07] Resetting plugins due to page load.
+2013-12-23 20:15:09.865 Test App[86144:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 21:16:08.743 Test App[21990:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 21:16:08.771 Test App[21990:c07] Unlimited access to network resources
+2013-12-23 21:16:09.123 Test App[21990:c07] Resetting plugins due to page load.
+2013-12-23 21:16:09.461 Test App[21990:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 21:23:58.624 Test App[27126:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 21:23:58.652 Test App[27126:c07] Unlimited access to network resources
+2013-12-23 21:23:58.762 Test App[27126:c07] Resetting plugins due to page load.
+2013-12-23 21:23:58.954 Test App[27126:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 21:24:15.265 Test App[27126:c07] Simulator slow-motion animations are now on
+2013-12-23 21:26:55.043 Test App[30078:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 21:26:55.059 Test App[30078:c07] Unlimited access to network resources
+2013-12-23 21:26:55.129 Test App[30078:c07] Resetting plugins due to page load.
+2013-12-23 21:26:55.281 Test App[30078:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 21:56:14.116 Test App[47335:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 21:56:14.457 Test App[47335:c07] Unlimited access to network resources
+2013-12-23 21:56:14.780 Test App[47335:c07] Resetting plugins due to page load.
+2013-12-23 21:56:15.947 Test App[47335:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 21:58:05.258 Test App[49077:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 21:58:05.285 Test App[49077:c07] Unlimited access to network resources
+2013-12-23 21:58:05.450 Test App[49077:c07] Resetting plugins due to page load.
+2013-12-23 21:58:05.697 Test App[49077:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 21:58:09.314 Test App[49077:c07] THREAD WARNING: ['Notification'] took '335.046875' ms. Plugin should use a background thread.
+2013-12-23 22:00:07.731 Test App[50853:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 22:00:07.758 Test App[50853:c07] Unlimited access to network resources
+2013-12-23 22:00:07.835 Test App[50853:c07] Resetting plugins due to page load.
+2013-12-23 22:00:07.938 Test App[50853:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 22:00:31.460 Test App[50853:c07] THREAD WARNING: ['Notification'] took '137.353027' ms. Plugin should use a background thread.
+Terminating in response to SpringBoard's termination.
+2013-12-23 22:05:18.040 Test App[54420:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 22:05:18.147 Test App[54420:c07] Unlimited access to network resources
+2013-12-23 22:05:18.386 Test App[54420:c07] Resetting plugins due to page load.
+2013-12-23 22:05:19.247 Test App[54420:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 22:07:00.368 Test App[54420:c07] THREAD WARNING: ['Notification'] took '251.509033' ms. Plugin should use a background thread.
+2013-12-23 22:38:15.421 Test App[73188:c07] Multi-tasking -> Device: YES, App: YES
+2013-12-23 22:38:15.449 Test App[73188:c07] Unlimited access to network resources
+2013-12-23 22:38:15.524 Test App[73188:c07] Resetting plugins due to page load.
+2013-12-23 22:38:15.681 Test App[73188:c07] Finished load of: file:///Users/temp/Library/Application%20Support/iPhone%20Simulator/6.1/Applications/229B335F-C765-4848-BD81-DA6495533E70/Test%20App.app/www/index.html
+2013-12-23 22:39:51.321 Test App[73188:c07] THREAD WARNING: ['Notification'] took '289.345215' ms. Plugin should use a background thread.

@@ -4,9 +4,10 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
         <title>Your are the best</title>
+        <script src="cordova.js"></script>
         <style>
             body{
-                background: #ff0;
+                background: #ff0;                
             }
 
             div#main {
@@ -34,7 +35,21 @@
                     greeting = "she is";
                 }
 
-                alert("We really do think that " + greeting + " the best.");
+                navigator.notification.alert("We really do think that " + greeting + " the best.", function(){}, "Your Are The Best");
+            }
+
+            document.addEventListener("deviceready", onDeviceReady, false);
+
+            function onDeviceReady() {
+
+            }
+
+            function showAlert() {
+                navigator.notification.alert('Your are the winner!', alertDismissed, 'GameOver', 'Done');
+            }
+
+            function alertDismissed() {
+
             }
         </script>
     </head>
