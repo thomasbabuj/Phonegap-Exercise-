@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+        <title>Your are the best</title>
+        <style>
+            body{
+                background: #ff0;
+            }
+
+            div#main {
+                background: #ccf;
+                height: 82%;
+                width:  80%;
+                padding: 10%;
+                -webkit-border-radius: 8px;
+            }
+        </style>
+        <script>
+            document.addEventListener('DOMContentLoaded', function(){
+                document.getElementById("likeMe").addEventListener('click', alertCompliment, false);
+                document.getElementById("likeHer").addEventListener('click', alertCompliment, false);
+
+            },false);
+
+            function alertCompliment(){
+                var elementId = this.id;
+                var greeting;
+
+                if( elementId == "likeMe" ) {
+                    greeting = "you are";
+                } else {
+                    greeting = "she is";
+                }
+
+                alert("We really do think that " + greeting + " the best.");
+            }
+        </script>
+    </head>
+    <body>
+        <div id="main">
+            You're really great! <br/>
+            <button id="likeMe">Tell me I'm great</button> <br />
+            <button id="likeHer">Tell her I'm great</button>
+        </div>
+    </body>
+</html>
